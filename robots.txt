@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-9i5mvj.rupiahtoto78zip.site/sitemap.xml
